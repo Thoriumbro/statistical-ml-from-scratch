@@ -1,0 +1,8 @@
+# data files — download via download_data.py instead
+*.npz
+*.idx*-ubyte
+*.ubyte
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
